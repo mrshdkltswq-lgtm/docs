@@ -20,7 +20,8 @@
             "group": "API documentation",
             "pages": [
               "api-reference/introduction"
-            ]
+            ],
+            "hidden": true
           },
           {
             "group": "Endpoint examples",
@@ -29,12 +30,15 @@
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
-            ]
+            ],
+            "hidden": true
           }
-        ]
+        ],
+        "hidden": true
       },
       {
-        "tab": "Untitled Tab"
+        "tab": "Untitled Tab",
+        "hidden": true
       }
     ]
   },

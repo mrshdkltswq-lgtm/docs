@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Min",
+  "name": "ertyg",
   "colors": {
     "primary": "#ff7d0b",
     "light": "#07C983",
@@ -38,7 +38,10 @@
       }
     ]
   },
-  "logo": "/logo/light.svg",
+  "logo": {
+    "light": "/images/تصميمبدونعنوان(30).png",
+    "dark": "/images/تصميمبدونعنوان(30).png"
+  },
   "navbar": {
     "links": [],
     "primary": {
@@ -57,7 +60,8 @@
      "mcp",
      "cursor",
      "vscode"
-   ]
+  ],
+  "display": "toc"
   },
   "footer": {
     "socials": {
@@ -68,5 +72,9 @@
   },
   "appearance": {
     "strict": true
+  },
+  "description": "nkl kn",
+  "interaction": {
+    "drilldown": true
   }
 }

@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "luma",
   "name": "ertyg",
   "colors": {
     "primary": "#ff7d0b",
@@ -71,10 +71,14 @@
     }
   },
   "appearance": {
-    "strict": true
+    "strict": true,
+    "default": "light"
   },
   "description": "nkl kn",
   "interaction": {
-    "drilldown": true
+    "drilldown": false
+  },
+  "background": {
+    "decoration": "windows"
   }
 }
